@@ -18,3 +18,4 @@ This project achieved three parts:
 * [Training Sample Generator](https://github.com/crackml/EE-GL9123-Intro2ML-Project/blob/master/Training_Sample_Generator.ipynb), which can randomly generate pictures of a single Chinese character.
 * [Scissor](https://github.com/crackml/EE-GL9123-Intro2ML-Project/blob/master/Scissor.ipynb), which can cut the original verification code into single ones.
 * [Model](https://github.com/crackml/EE-GL9123-Intro2ML-Project/blob/master/Model.ipynb), which is a Concoluted Neural Network model and judges the single character input. Also, this file contains a demo of identification on ten verification codes.
+* [data set and model built](https://drive.google.com/open?id=1pGDAJQJRW5dj1jv4YBpdMXLWqXTsbAal). You can download all data set and the trained model from this before you try this project. Or you can begin generating your own data set and model by the three parts above.
