@@ -12,7 +12,7 @@ Fig.1 one verification code captured from Zhihu
 
 The seven Chinese characters on Fig.1 are “淤”,“舀”,“竿”,“侵”,“图”,“民”,“茁” respectively, among which, “舀” is headstand. Correctly select this character, then you can pass the verification.
 
-## What does this project consist of
+## What does this project consist of 
 
 This project achieved three programs: 
 * [Training Sample Generator](https://github.com/crackml/EE-GL9123-Intro2ML-Project/blob/master/Training_Sample_Generator.ipynb), which can randomly generate pictures of a single Chinese character.
